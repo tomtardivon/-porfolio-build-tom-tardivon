@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/porfolio-build-tom-tardivon/static/css/main.1cd4ffc7.chunk.css",
+    "main.js": "/porfolio-build-tom-tardivon/static/js/main.1d12329a.chunk.js",
+    "main.js.map": "/porfolio-build-tom-tardivon/static/js/main.1d12329a.chunk.js.map",
+    "runtime-main.js": "/porfolio-build-tom-tardivon/static/js/runtime-main.9073e946.js",
+    "runtime-main.js.map": "/porfolio-build-tom-tardivon/static/js/runtime-main.9073e946.js.map",
+    "static/js/2.cbfe571c.chunk.js": "/porfolio-build-tom-tardivon/static/js/2.cbfe571c.chunk.js",
+    "static/js/2.cbfe571c.chunk.js.map": "/porfolio-build-tom-tardivon/static/js/2.cbfe571c.chunk.js.map",
+    "index.html": "/porfolio-build-tom-tardivon/index.html",
+    "static/css/main.1cd4ffc7.chunk.css.map": "/porfolio-build-tom-tardivon/static/css/main.1cd4ffc7.chunk.css.map",
+    "static/js/2.cbfe571c.chunk.js.LICENSE.txt": "/porfolio-build-tom-tardivon/static/js/2.cbfe571c.chunk.js.LICENSE.txt",
+    "static/media/3d.c4b91ed5.png": "/porfolio-build-tom-tardivon/static/media/3d.c4b91ed5.png",
+    "static/media/3d_araigne.fd2f45db.mp4": "/porfolio-build-tom-tardivon/static/media/3d_araigne.fd2f45db.mp4",
+    "static/media/3d_video.25121677.mp4": "/porfolio-build-tom-tardivon/static/media/3d_video.25121677.mp4",
+    "static/media/3d_video_1.036ca640.mp4": "/porfolio-build-tom-tardivon/static/media/3d_video_1.036ca640.mp4",
+    "static/media/Portfolio_vidoe.b05b70cf.mp4": "/porfolio-build-tom-tardivon/static/media/Portfolio_vidoe.b05b70cf.mp4",
+    "static/media/arrow.d468277f.svg": "/porfolio-build-tom-tardivon/static/media/arrow.d468277f.svg",
+    "static/media/eat_sushi.0872497a.pdf": "/porfolio-build-tom-tardivon/static/media/eat_sushi.0872497a.pdf",
+    "static/media/foret_ambulante.9c68126c.pdf": "/porfolio-build-tom-tardivon/static/media/foret_ambulante.9c68126c.pdf",
+    "static/media/jeux1.07f126ae.mp4": "/porfolio-build-tom-tardivon/static/media/jeux1.07f126ae.mp4",
+    "static/media/mameteo.420cbf79.mp4": "/porfolio-build-tom-tardivon/static/media/mameteo.420cbf79.mp4",
+    "static/media/motionlogo.9eb29fb4.mp4": "/porfolio-build-tom-tardivon/static/media/motionlogo.9eb29fb4.mp4",
+    "static/media/the_return_of_the_king.31c60526.mp4": "/porfolio-build-tom-tardivon/static/media/the_return_of_the_king.31c60526.mp4",
+    "static/media/thereturnofking.d29f90c7.pdf": "/porfolio-build-tom-tardivon/static/media/thereturnofking.d29f90c7.pdf",
+    "static/media/ticemed.211ebe4a.mp4": "/porfolio-build-tom-tardivon/static/media/ticemed.211ebe4a.mp4",
+    "static/media/ticemed.b2c82c4e.pdf": "/porfolio-build-tom-tardivon/static/media/ticemed.b2c82c4e.pdf",
+    "static/media/toulonjoy.2308086d.pdf": "/porfolio-build-tom-tardivon/static/media/toulonjoy.2308086d.pdf",
+    "static/media/trek.68b716a6.pdf": "/porfolio-build-tom-tardivon/static/media/trek.68b716a6.pdf",
+    "static/media/video_presentation1.42833caa.mp4": "/porfolio-build-tom-tardivon/static/media/video_presentation1.42833caa.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9073e946.js",
+    "static/js/2.cbfe571c.chunk.js",
+    "static/css/main.1cd4ffc7.chunk.css",
+    "static/js/main.1d12329a.chunk.js"
+  ]
+}
